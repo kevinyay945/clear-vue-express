@@ -1,0 +1,4 @@
+node_modules/
+database/dbconnect.js
+dist/
+
